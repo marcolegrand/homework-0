@@ -2,7 +2,6 @@ library(dslabs)
 library(ggplot2)
 library(dplyr)
 library(purrr)
-library(NHANES)
 library(readr)
 library(readxl)
 library(ggrepel)
@@ -11,5 +10,3 @@ library(ggridges)
 library(gridExtra)
 library(RColorBrewer)
 library(gtools)
-
-
